@@ -1,0 +1,7 @@
+{
+  "name": "mobiapps3F",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
